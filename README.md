@@ -1,5 +1,5 @@
 ### Hi there👋
-I'm Ronak a Statistician interested in data analysis
+I'm Ronak Fathi. A Statistician interested in data analysis. Email for contact: ronakfstat@gmail.com
 <!--
 **RoniF-pixel/RoniF-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
