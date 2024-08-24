@@ -4,5 +4,5 @@ I have an analytical background in Statistics and few years of experience in tea
 
 
 ## Table of Contents
-- About
+- [About](https://github.com/RoniF-pixel/Data-Analytics-Portfolio#about)
 - 
