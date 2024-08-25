@@ -6,7 +6,16 @@ I am Ronak. A Statistical consultant with an analytical background in Statistics
 ## Table of Contents
 - [About](https://github.com/RoniF-pixel/Data-Analytics-Portfolio#about)
 - [Projects](https://github.com/RoniF-pixel/Data-Analytics-Portfolio#projects)
-- 
+    - Python
+       - [Automatidata data on predicting customer's tipping behavior](https://github.com/RoniF-pixel/Projects/tree/main/Automatidata)
+       - [predicting Covid-19 patients urgency of being at high risk](https://github.com/RoniF-pixel/Projects/tree/main/Covid-19)
+       - [Salifort Motors' employees satisfaction with their jobs' analysis](https://github.com/RoniF-pixel/Projects/tree/main/Salifort%20Motors)
+       - [TikTok videos' analysis of being a claim or offer an opinion](https://github.com/RoniF-pixel/Projects/tree/main/TikTok)
+       - [Predicting the segment of Waze's users who are at high risk of churning](https://github.com/RoniF-pixel/Projects/tree/main/Waze)
+    - R-studio
+    - Tableau
+      
+  
 
 
 
