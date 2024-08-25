@@ -15,8 +15,8 @@ I am Ronak. A Statistical consultant with an analytical background in Statistics
     - R-studio
     - Tableau
 
-- Certificates
-- Contacts
+ - Certificates
+ - Contacts
   
 
 
