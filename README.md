@@ -14,7 +14,9 @@ I am Ronak. A Statistical consultant with an analytical background in Statistics
        - [Predicting the segment of Waze's users who are at high risk of churning](https://github.com/RoniF-pixel/Projects/tree/main/Waze)
     - R-studio
     - Tableau
-      
+
+- Certificates
+- Contacts
   
 
 
