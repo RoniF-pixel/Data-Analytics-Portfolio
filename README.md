@@ -5,4 +5,11 @@ I am Ronak. A Statistical consultant with an analytical background in Statistics
 
 ## Table of Contents
 - [About](https://github.com/RoniF-pixel/Data-Analytics-Portfolio#about)
-- [Python Projects](https://github.com/RoniF-pixel/Projects)
+- [Projects](https://github.com/RoniF-pixel/Data-Analytics-Portfolio#projects)
+- 
+
+
+
+
+
+## Projects
