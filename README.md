@@ -13,6 +13,7 @@ I am Ronak. A Statistical consultant with an analytical background in Statistics
        - [TikTok videos' analysis of being a claim or offer an opinion](https://github.com/RoniF-pixel/Projects/tree/main/TikTok)
        - [Predicting the segment of Waze's users who are at high risk of churning](https://github.com/RoniF-pixel/Projects/tree/main/Waze)
     - R-studio
+       - [Predicting patients being at risk of having heart disease](https://github.com/RoniF-pixel/R-projects/tree/main/Heart%20Rate)
     - Tableau
 
  - Certificates
