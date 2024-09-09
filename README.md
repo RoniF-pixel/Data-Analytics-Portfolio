@@ -15,6 +15,7 @@ I am Ronak. A Statistical consultant with an analytical background in Statistics
     - R-studio
        - [Predicting patients being at risk of having heart disease](https://github.com/RoniF-pixel/R-projects/tree/main/Heart%20Rate)
        - [Predicting stroke given some features of patients](https://github.com/RoniF-pixel/R-projects/tree/main/Stroke%20Prediction)
+       - [Parkinson disease prediction](https://github.com/RoniF-pixel/R-projects/tree/main/Parkinson%20Disease)
     - Tableau
 
  - Certificates
