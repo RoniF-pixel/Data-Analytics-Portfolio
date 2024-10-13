@@ -17,6 +17,8 @@ I am Ronak. A Statistical consultant with an analytical background in Statistics
        - [Predicting stroke given some features of patients](https://github.com/RoniF-pixel/R-projects/tree/main/Stroke%20Prediction)
        - [Parkinson disease prediction](https://github.com/RoniF-pixel/R-projects/tree/main/Parkinson%20Disease)
     - Tableau
+       - [Automatidata Visualization](https://public.tableau.com/app/profile/ronak.fathi/viz/Automatidataproject_17092831021750/Sheet2)
+       - 
 
  - Certificates
  - Contacts
