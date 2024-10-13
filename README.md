@@ -18,7 +18,10 @@ I am Ronak. A Statistical consultant with an analytical background in Statistics
        - [Parkinson disease prediction](https://github.com/RoniF-pixel/R-projects/tree/main/Parkinson%20Disease)
     - Tableau
        - [Automatidata Visualization](https://public.tableau.com/app/profile/ronak.fathi/viz/Automatidataproject_17092831021750/Sheet2)
-       - 
+       - [TikTok Visualization](https://public.tableau.com/app/profile/ronak.fathi/viz/TikTokProject_17092911172030/Story1)
+       - [Seoul Rental Bike Summary](https://public.tableau.com/app/profile/ronak.fathi/viz/seoul-rental-bikes/Dashboard1)
+       - [Lightning Strike In the US](https://public.tableau.com/app/profile/ronak.fathi/viz/nos-2009-2018/Dashboard4)
+    
 
  - Certificates
  - Contacts
