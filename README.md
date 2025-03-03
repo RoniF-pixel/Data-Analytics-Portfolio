@@ -21,12 +21,13 @@ I am Ronak. A Statistical consultant with an analytical background in Statistics
        - [TikTok Visualization](https://public.tableau.com/app/profile/ronak.fathi/viz/TikTokProject_17092911172030/Story1)
        - [Seoul Rental Bike Summary](https://public.tableau.com/app/profile/ronak.fathi/viz/seoul-rental-bikes/Dashboard1)
        - [Lightning Strike In the US](https://public.tableau.com/app/profile/ronak.fathi/viz/nos-2009-2018/Dashboard4)
+        
  - Certificates 
-       - [Machine Learning Specialization by Stanford University](https://coursera.org/share/55be9360748683122474a7118bd764f2)
-       - [Google Advanced Data Analytics Professional Certificate](https://www.credly.com/badges/53b0562d-9aab-4204-8b5d-f520890b456a/linked_in?t=scnypb) 
+    - [Machine Learning Specialization by Stanford University](https://coursera.org/share/55be9360748683122474a7118bd764f2)
+    - [Google Advanced Data Analytics Professional Certificate](https://www.credly.com/badges/53b0562d-9aab-4204-8b5d-f520890b456a/linked_in?t=scnypb) 
  - Contacts
-       - [LinkedIn](https://www.linkedin.com/in/ronak-fathi/)
-       - [Email](ronakfstat@gmail.com)
+    - [LinkedIn](https://www.linkedin.com/in/ronak-fathi/)
+    - [Email](ronakfstat@gmail.com)
 
 
 
