@@ -24,8 +24,11 @@ I am Ronak. A Statistical consultant with an analytical background in Statistics
     
 
  - Certificates
+       - [Machine Learning Specialization by Stanford University](https://coursera.org/share/55be9360748683122474a7118bd764f2)
+       - [Google Advanced Data Analytics Professional Certificate](https://www.credly.com/badges/53b0562d-9aab-4204-8b5d-f520890b456a/linked_in?t=scnypb) 
  - Contacts
-  
+       - [LinkedIn](https://www.linkedin.com/in/ronak-fathi/)
+       - [Email](ronakfstat@gmail.com)
 
 
 
