@@ -23,12 +23,10 @@ I am Ronak. A Statistical consultant with an analytical background in Statistics
        - [Lightning Strike In the US](https://public.tableau.com/app/profile/ronak.fathi/viz/nos-2009-2018/Dashboard4)
     
 
- - Certificates
-        
+ - [Certificates](https://github.com/RoniF-pixel/Data-Analytics-Portfolio#Certificates)  
        - [Machine Learning Specialization by Stanford University](https://coursera.org/share/55be9360748683122474a7118bd764f2)
        - [Google Advanced Data Analytics Professional Certificate](https://www.credly.com/badges/53b0562d-9aab-4204-8b5d-f520890b456a/linked_in?t=scnypb) 
- - Contacts
-        
+ - [Contacts](https://github.com/RoniF-pixel/Data-Analytics-Portfolio#Contacts)
        - [LinkedIn](https://www.linkedin.com/in/ronak-fathi/)
        - [Email](ronakfstat@gmail.com)
 
