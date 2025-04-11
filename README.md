@@ -1,7 +1,10 @@
 Hi there!
 ## About
-I am Ronak. A Statistical consultant with an analytical background in Statistics and few years of experience in teaching and guiding undergraduate students on choosing most suited statistical techniques for their data projects. Currently, I am on track to acquiring more skills in Machine Learning field. I have developed a strong foundation in Statistics and a passion for using data to uncover meaningful insights in the field of Health care. I am also excited to bring my technical and analytical skills to the field of data science as an intermediate-level data specialist.
+Hi, I’m Ronak Fathi — a statistical consultant and educator with a master’s degree in mathematical statistics, several years of experience teaching and guiding students, and a growing portfolio in machine learning and data science. I specialize in using statistical tools and programming (R, Python, SPSS) to extract insights from health and behavioral data.
 
+My recent work includes building predictive models for heart health, analyzing psychological survey data, and creating educational content around statistical techniques. I'm especially passionate about applying data science to healthcare and psychological research, where human-centered insights can have real impact.
+
+Currently, I’m exploring interdisciplinary applications of machine learning and statistical modeling, and I’m always eager to collaborate on meaningful projects in health, behavioral science, and beyond.
 
 ## Table of Contents
 - [About](https://github.com/RoniF-pixel/Data-Analytics-Portfolio#about)
