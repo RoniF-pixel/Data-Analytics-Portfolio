@@ -16,9 +16,11 @@ Currently, I’m exploring interdisciplinary applications of machine learning an
        - [TikTok videos' analysis of being a claim or offer an opinion](https://github.com/RoniF-pixel/Projects/tree/main/TikTok)
        - [Predicting the segment of Waze's users who are at high risk of churning](https://github.com/RoniF-pixel/Projects/tree/main/Waze)
     - R-studio
+       - [Mental Health Trends During COVID-19](https://github.com/RoniF-pixel/R-projects/tree/main/Covid)
        - [Predicting patients being at risk of having heart disease](https://github.com/RoniF-pixel/R-projects/tree/main/Heart%20Rate)
        - [Predicting stroke given some features of patients](https://github.com/RoniF-pixel/R-projects/tree/main/Stroke%20Prediction)
        - [Parkinson disease prediction](https://github.com/RoniF-pixel/R-projects/tree/main/Parkinson%20Disease)
+       - [The Effect of Cognitive Interference on Reaction Time](https://github.com/RoniF-pixel/R-projects/tree/main/Cognitive%20Load%20%26%20Decision-Making%20Using%20Reaction%20Time%20Data)
     - Tableau
        - [Automatidata Visualization](https://public.tableau.com/app/profile/ronak.fathi/viz/Automatidataproject_17092831021750/Sheet2)
        - [TikTok Visualization](https://public.tableau.com/app/profile/ronak.fathi/viz/TikTokProject_17092911172030/Story1)
