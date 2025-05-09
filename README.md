@@ -4,7 +4,7 @@ Hi, I’m Ronak Fathi — a statistical consultant and educator with a master’
 
 My recent work includes building predictive models for heart health, analyzing psychological survey data, and creating educational content around statistical techniques. I'm especially passionate about applying data science to healthcare and psychological research, where human-centered insights can have real impact.
 
-Currently, I’m exploring interdisciplinary applications of machine learning and statistical modeling, and I’m always eager to collaborate on meaningful projects in health, behavioral science, and beyond.
+Currently, I’m exploring interdisciplinary applications of machine learning and statistical modeling, and I’m always eager to collaborate on meaningful projects in health, behavioral science, social science, and beyond.
 
 ## Table of Contents
 - [About](https://github.com/RoniF-pixel/Data-Analytics-Portfolio#about)
