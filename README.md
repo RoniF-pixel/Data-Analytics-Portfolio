@@ -49,7 +49,7 @@ Currently, I’m exploring interdisciplinary applications of machine learning an
 - [Seoul Rental Bike Summary](https://public.tableau.com/app/profile/ronak.fathi/viz/seoul-rental-bikes/Dashboard1)
 - [Lightning Strikes in the US](https://public.tableau.com/app/profile/ronak.fathi/viz/nos-2009-2018/Dashboard4)
 
-### 🧑‍💼 Consulting & Mentoring
+### 👩‍💼 Consulting & Mentoring
 
 - [Student Projects Portfolio](https://github.com/RoniF-pixel/Student-Projects-Portfolio): A collection of mentoring and consulting work focused on psychology and behavioral science. Includes longitudinal study analyses, survey modeling, and guided workflows developed with students.
 
