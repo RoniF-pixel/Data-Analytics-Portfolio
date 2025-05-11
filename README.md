@@ -27,6 +27,17 @@ Currently, I’m exploring interdisciplinary applications of machine learning an
        - [Seoul Rental Bike Summary](https://public.tableau.com/app/profile/ronak.fathi/viz/seoul-rental-bikes/Dashboard1)
        - [Lightning Strike In the US](https://public.tableau.com/app/profile/ronak.fathi/viz/nos-2009-2018/Dashboard4)
         
+    -  Consulting & Mentoring
+
+       - [Student Projects Portfolio](https://github.com/RoniF-pixel/Student-Projects-Portfolio): A collection of mentoring and consulting work focused on psychology and behavioral 
+         science. These projects include longitudinal study analyses, survey modeling, and guided workflows developed with students.
+
+    - Tutorials & Educational Content
+
+      - [Statisticians World Tutorials](https://github.com/RoniF-pixel/Statisticians-World-Tutorials): Code, datasets, and resources from my YouTube tutorials on R and Python. Topics 
+        include statistical modeling, data wrangling, and machine learning fundamentals.
+
+ 
  - Certificates 
     - [Machine Learning Specialization by Stanford University](https://coursera.org/share/55be9360748683122474a7118bd764f2)
     - [Google Advanced Data Analytics Professional Certificate](https://www.credly.com/badges/53b0562d-9aab-4204-8b5d-f520890b456a/linked_in?t=scnypb) 
@@ -38,4 +49,4 @@ Currently, I’m exploring interdisciplinary applications of machine learning an
 
 
 
-## Projects
+
