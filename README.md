@@ -55,7 +55,8 @@ Currently, I’m exploring interdisciplinary applications of machine learning an
  - Contacts
     - [LinkedIn](https://www.linkedin.com/in/ronak-fathi/)
     - [Email](ronakfstat@gmail.com)
-    - [YouTube – Statisticians World](https://www.youtube.com/@StatisticiansWorld)
+    - [YouTube – Statisticians World](https://www.youtube.com/@statisticiansworld8912)
+    - [Consulting Website](https://sites.google.com/view/statistical-consulting-service/home)
 
 ---
 
