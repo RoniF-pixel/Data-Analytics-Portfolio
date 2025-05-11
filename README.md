@@ -6,6 +6,8 @@ My recent work includes building predictive models for heart health, analyzing p
 
 Currently, I’m exploring interdisciplinary applications of machine learning and statistical modeling, and I’m always eager to collaborate on meaningful projects in health, behavioral science, social science, and beyond.
 
+---
+
 ## Table of Contents
 - [About](https://github.com/RoniF-pixel/Data-Analytics-Portfolio#about)
 - [Projects](https://github.com/RoniF-pixel/Data-Analytics-Portfolio#projects)
@@ -15,36 +17,47 @@ Currently, I’m exploring interdisciplinary applications of machine learning an
        - [Salifort Motors' employees satisfaction with their jobs' analysis](https://github.com/RoniF-pixel/Projects/tree/main/Salifort%20Motors)
        - [TikTok videos' analysis of being a claim or offer an opinion](https://github.com/RoniF-pixel/Projects/tree/main/TikTok)
        - [Predicting the segment of Waze's users who are at high risk of churning](https://github.com/RoniF-pixel/Projects/tree/main/Waze)
+
+
     - R-studio
        - [Mental Health Trends During COVID-19](https://github.com/RoniF-pixel/R-projects/tree/main/Covid)
        - [Predicting patients being at risk of having heart disease](https://github.com/RoniF-pixel/R-projects/tree/main/Heart%20Rate)
        - [Predicting stroke given some features of patients](https://github.com/RoniF-pixel/R-projects/tree/main/Stroke%20Prediction)
        - [Parkinson disease prediction](https://github.com/RoniF-pixel/R-projects/tree/main/Parkinson%20Disease)
        - [The Effect of Cognitive Interference on Reaction Time](https://github.com/RoniF-pixel/R-projects/tree/main/Cognitive%20Load%20%26%20Decision-Making%20Using%20Reaction%20Time%20Data)
+  
     - Tableau
        - [Automatidata Visualization](https://public.tableau.com/app/profile/ronak.fathi/viz/Automatidataproject_17092831021750/Sheet2)
        - [TikTok Visualization](https://public.tableau.com/app/profile/ronak.fathi/viz/TikTokProject_17092911172030/Story1)
        - [Seoul Rental Bike Summary](https://public.tableau.com/app/profile/ronak.fathi/viz/seoul-rental-bikes/Dashboard1)
        - [Lightning Strike In the US](https://public.tableau.com/app/profile/ronak.fathi/viz/nos-2009-2018/Dashboard4)
         
+
     -  Consulting & Mentoring
 
        - [Student Projects Portfolio](https://github.com/RoniF-pixel/Student-Projects-Portfolio): A collection of mentoring and consulting work focused on psychology and behavioral 
          science. These projects include longitudinal study analyses, survey modeling, and guided workflows developed with students.
 
+    
     - Tutorials & Educational Content
 
       - [Statisticians World Tutorials](https://github.com/RoniF-pixel/Statisticians-World-Tutorials): Code, datasets, and resources from my YouTube tutorials on R and Python. Topics 
         include statistical modeling, data wrangling, and machine learning fundamentals.
 
+ ---
  
  - Certificates 
     - [Machine Learning Specialization by Stanford University](https://coursera.org/share/55be9360748683122474a7118bd764f2)
-    - [Google Advanced Data Analytics Professional Certificate](https://www.credly.com/badges/53b0562d-9aab-4204-8b5d-f520890b456a/linked_in?t=scnypb) 
+    - [Google Advanced Data Analytics Professional Certificate](https://www.credly.com/badges/53b0562d-9aab-4204-8b5d-f520890b456a/linked_in?t=scnypb)
+  
+---
+
  - Contacts
     - [LinkedIn](https://www.linkedin.com/in/ronak-fathi/)
     - [Email](ronakfstat@gmail.com)
+    - [YouTube – Statisticians World](https://www.youtube.com/@StatisticiansWorld)
 
+---
 
 
 
