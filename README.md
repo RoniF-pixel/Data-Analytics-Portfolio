@@ -33,6 +33,7 @@ Currently, I’m exploring interdisciplinary applications of machine learning an
 - [Salifort Motors – Job Satisfaction Analysis](https://github.com/RoniF-pixel/Projects/tree/main/Salifort%20Motors)
 - [TikTok – Identifying Claims vs. Opinions](https://github.com/RoniF-pixel/Projects/tree/main/TikTok)
 - [Waze – Predicting High-Risk Churn Segments](https://github.com/RoniF-pixel/Projects/tree/main/Waze)
+- [Store Sales Forecasting – Time Series Modeling](https://github.com/RoniF-pixel/Python-Projects/tree/main/Store%20Analysis)
 
 ### 📈 R
 
