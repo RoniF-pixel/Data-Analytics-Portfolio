@@ -2,9 +2,9 @@
 
 ## 📌 About
 
-Hi, I’m **Ronak Fathi** — a statistical consultant and educator with a master’s degree in mathematical statistics, several years of experience teaching and guiding students, and a growing portfolio in machine learning and data science. I specialize in using statistical tools and programming (R, Python, SPSS) to extract insights from health and behavioral data.
+Hi, I’m **Ronak Fathi** — a statistical consultant and educator with a master’s degree in mathematical statistics, several years of experience teaching and guiding students, and a growing portfolio in machine learning and data science. I specialize in using statistical tools and programming (R, Python, SPSS) to extract insights from data.
 
-My recent work includes building predictive models for heart health, analyzing psychological survey data, and creating educational content on statistical techniques. While I’m especially passionate about applying data science to healthcare and psychological research—domains where human-centered insights can drive meaningful change—I’m also deeply interested in broader applications across education, environmental science, transportation, and public policy, where data-driven approaches can inform decisions and improve lives.
+My recent work includes building predictive models for heart health, analyzing psychological survey data, and creating educational content on statistical techniques. While I’m especially passionate about applying data science to healthcare, psychological, and environmental research—domains where human-centered insights can drive meaningful change—I’m also deeply interested in broader applications across education, ecology, transportation, and public policy, where data-driven approaches can inform decisions and improve lives.
 
 Currently, I’m exploring interdisciplinary applications of machine learning and statistical modeling, and I’m always eager to collaborate on meaningful projects in health, environmental science, behavioral science, social science, and beyond.
 
