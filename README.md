@@ -29,7 +29,7 @@ I’m currently exploring interdisciplinary applications of statistical modeling
 ## 📊 Projects
 
 ### Health & Psychology
-- [COVID-19 – Predicting Patient Risk Urgency(Python)](https://github.com/RoniF-pixel/Projects/tree/main/Covid-19)
+- [COVID-19 – Predicting Patient Risk Urgency](https://github.com/RoniF-pixel/Projects/tree/main/Covid-19)(Python) Built a predictive model to classify patient risk using demographic and symptom data.
 - [Mental Health Trends During COVID-19(R)](https://github.com/RoniF-pixel/R-projects/tree/main/Covid)
 - [Heart Disease Risk Prediction(R)](https://github.com/RoniF-pixel/R-projects/tree/main/Heart%20Rate)
 - [Stroke Prediction(R)](https://github.com/RoniF-pixel/R-projects/tree/main/Stroke%20Prediction)
