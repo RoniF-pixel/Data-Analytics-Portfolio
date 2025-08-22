@@ -29,12 +29,18 @@ I’m currently exploring interdisciplinary applications of statistical modeling
 ## 📊 Projects
 
 ### Health & Psychology
-- [COVID-19 – Predicting Patient Risk Urgency](https://github.com/RoniF-pixel/Projects/tree/main/Covid-19)(`Python`) Built a predictive model to classify patient risk using demographic and symptom data.
+- [COVID-19 – Predicting Patient Risk Urgency](https://github.com/RoniF-pixel/Projects/tree/main/Covid-19)(`Python`)
+  Built a predictive model to classify patient risk using demographic and symptom data.
 - [Mental Health Trends During COVID-19](https://github.com/RoniF-pixel/R-projects/tree/main/Covid)(`R`)
+  Modeled non-linear temporal trends in anxiety and depression using GAMs, mixed models, and multivariate analysis.
 - [Heart Disease Risk Prediction](https://github.com/RoniF-pixel/R-projects/tree/main/Heart%20Rate)(`R`)
+  Applied classification models to predict heart disease risk from patient data.
 - [Stroke Prediction](https://github.com/RoniF-pixel/R-projects/tree/main/Stroke%20Prediction)(`R`)
+  Developed predictive models for stroke incidence, focusing on interpretability and risk assessment.
 - [Parkinson's Disease Prediction](https://github.com/RoniF-pixel/R-projects/tree/main/Parkinson%20Disease)(`R`)
+  Used machine learning to predict Parkinson’s onset based on clinical and behavioral features.
 - [Cognitive Load & Reaction Time](https://github.com/RoniF-pixel/R-projects/tree/main/Cognitive%20Load%20%26%20Decision-Making%20Using%20Reaction%20Time%20Data)(`R`)
+  Analyzed experimental data on cognitive performance under varying conditions.
 
 ### Finance & Economics
 - [Store Sales Forecasting – Time Series Modeling](https://github.com/RoniF-pixel/Python-Projects/tree/main/Store%20Analysis)(`Python`)
