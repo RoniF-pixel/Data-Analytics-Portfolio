@@ -29,28 +29,28 @@ I’m currently exploring interdisciplinary applications of statistical modeling
 ## 📊 Projects
 
 ### Health & Psychology
-- [COVID-19 – Predicting Patient Risk Urgency](https://github.com/RoniF-pixel/Projects/tree/main/Covid-19)
-- [Mental Health Trends During COVID-19](https://github.com/RoniF-pixel/R-projects/tree/main/Covid)
-- [Heart Disease Risk Prediction](https://github.com/RoniF-pixel/R-projects/tree/main/Heart%20Rate)
-- [Stroke Prediction](https://github.com/RoniF-pixel/R-projects/tree/main/Stroke%20Prediction)
-- [Parkinson's Disease Prediction](https://github.com/RoniF-pixel/R-projects/tree/main/Parkinson%20Disease)
-- [Cognitive Load & Reaction Time](https://github.com/RoniF-pixel/R-projects/tree/main/Cognitive%20Load%20%26%20Decision-Making%20Using%20Reaction%20Time%20Data)
+- [COVID-19 – Predicting Patient Risk Urgency(Python)](https://github.com/RoniF-pixel/Projects/tree/main/Covid-19)
+- [Mental Health Trends During COVID-19(R)](https://github.com/RoniF-pixel/R-projects/tree/main/Covid)
+- [Heart Disease Risk Prediction(R)](https://github.com/RoniF-pixel/R-projects/tree/main/Heart%20Rate)
+- [Stroke Prediction(R)](https://github.com/RoniF-pixel/R-projects/tree/main/Stroke%20Prediction)
+- [Parkinson's Disease Prediction(R)](https://github.com/RoniF-pixel/R-projects/tree/main/Parkinson%20Disease)
+- [Cognitive Load & Reaction Time(R)](https://github.com/RoniF-pixel/R-projects/tree/main/Cognitive%20Load%20%26%20Decision-Making%20Using%20Reaction%20Time%20Data)
 
 ### Finance & Economics
-- [Store Sales Forecasting – Time Series Modeling](https://github.com/RoniF-pixel/Python-Projects/tree/main/Store%20Analysis)
-- [Automatidata – Predicting Customer Tipping Behavior](https://github.com/RoniF-pixel/Projects/tree/main/Automatidata)
-    - [Automatidata Visualization](https://public.tableau.com/app/profile/ronak.fathi/viz/Automatidataproject_17092831021750/Sheet2)
-- [Waze – Predicting High-Risk Churn Segments](https://github.com/RoniF-pixel/Projects/tree/main/Waze)
-- [Salifort Motors – Job Satisfaction Analysis](https://github.com/RoniF-pixel/Projects/tree/main/Salifort%20Motors)
+- [Store Sales Forecasting – Time Series Modeling(Python)](https://github.com/RoniF-pixel/Python-Projects/tree/main/Store%20Analysis)
+- [Automatidata – Predicting Customer Tipping Behavior(Python)](https://github.com/RoniF-pixel/Projects/tree/main/Automatidata)
+    - [Automatidata Visualization(Tableau)](https://public.tableau.com/app/profile/ronak.fathi/viz/Automatidataproject_17092831021750/Sheet2)
+- [Waze – Predicting High-Risk Churn Segments(Python)](https://github.com/RoniF-pixel/Projects/tree/main/Waze)
+- [Salifort Motors – Job Satisfaction Analysis(Python)](https://github.com/RoniF-pixel/Projects/tree/main/Salifort%20Motors)
 
 ### Environmental & Infrastructure
-- [Lightning Strike Forecasting – Time Series Modeling with SARIMA](https://github.com/RoniF-pixel/Python-Projects/tree/main/Strikes-Analysis)
-    - [Lightning Strikes in the US](https://public.tableau.com/app/profile/ronak.fathi/viz/nos-2009-2018/Dashboard4)
-- [Seoul Rental Bike Summary](https://public.tableau.com/app/profile/ronak.fathi/viz/seoul-rental-bikes/Dashboard1)
+- [Lightning Strike Forecasting – Time Series Modeling with SARIMA(Python)](https://github.com/RoniF-pixel/Python-Projects/tree/main/Strikes-Analysis)
+    - [Lightning Strikes in the US(Tableau)](https://public.tableau.com/app/profile/ronak.fathi/viz/nos-2009-2018/Dashboard4)
+- [Seoul Rental Bike Summary(Tableau)](https://public.tableau.com/app/profile/ronak.fathi/viz/seoul-rental-bikes/Dashboard1)
 
 ### Behavioral & Social
-- [TikTok – Identifying Claims vs. Opinions](https://github.com/RoniF-pixel/Projects/tree/main/TikTok)
-    - [TikTok Visualization](https://public.tableau.com/app/profile/ronak.fathi/viz/TikTokProject_17092911172030/Story1)
+- [TikTok – Identifying Claims vs. Opinions(Python)](https://github.com/RoniF-pixel/Projects/tree/main/TikTok)
+    - [TikTok Visualization(Tableau)](https://public.tableau.com/app/profile/ronak.fathi/viz/TikTokProject_17092911172030/Story1)
 
 ### 👩‍💼 Consulting & Education
 - [Student Projects Portfolio](https://github.com/RoniF-pixel/Student-Projects-Portfolio): A collection of mentoring and consulting work focused on psychology and behavioral science. Includes longitudinal study analyses, survey modeling, and guided workflows developed with students.
