@@ -50,7 +50,7 @@ I’m currently exploring interdisciplinary applications of statistical modeling
     - [Automatidata Visualization](https://public.tableau.com/app/profile/ronak.fathi/viz/Automatidataproject_17092831021750/Sheet2)(`Tableau`)
 - [Waze – Predicting High-Risk Churn Segments](https://github.com/RoniF-pixel/Projects/tree/main/Waze)(`Python`)
   Identified user segments likely to churn, supporting market retention strategies.
-- [Salifort Motors – Job Satisfaction Analysis](https://github.com/RoniF-pixel/Projects/tree/main/Salifort%20Motors)(`Python`)
+- [Salifort Motors – Job Satisfaction Analysis](https://github.com/RoniF-pixel/Python-Projects/tree/main/Salifort-Motors)(`Python`)
   Investigated the relationship between employee satisfaction and organizational outcomes, framed as labor economics.
 
 ### Environmental & Infrastructure
