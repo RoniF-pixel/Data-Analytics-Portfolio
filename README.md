@@ -1,8 +1,7 @@
-# 👋 Hi there!
 
-## 📌 About
+##  About
 
-👋 Hi, I’m Ronak Fathi, a statistical consultant and educator with a master’s degree in mathematical statistics. I specialize in probability, stochastic modeling, simulation, and applied statistical analysis using R, Python, and SPSS.
+ Hi, I’m Ronak Fathi, a statistical consultant and educator with a master’s degree in mathematical statistics. I specialize in probability, stochastic modeling, simulation, and applied statistical analysis using R, Python, and SPSS.
 
 Across my work, whether analyzing random recursive trees, forecasting environmental phenomena or economic and customer behavior, or modeling health and behavioral outcomes, I focus on modeling uncertainty, dependence, and variation in complex systems using both theoretical and computational approaches. This unifying theme bridges my theoretical research with applied projects and ensures that insights are both rigorous and actionable.
 
@@ -14,8 +13,8 @@ I’m currently exploring interdisciplinary applications of statistical modeling
 
 ## 🗂 Table of Contents
 
-- [📌 About](#about)
-- [📊 Projects](#projects)
+- [ About](#about)
+- [ Projects](#projects)
   - Health & Psychology
   - Finance & Economics
   - Environmental & Infrastructure
@@ -26,7 +25,7 @@ I’m currently exploring interdisciplinary applications of statistical modeling
 
 ---
 
-## 📊 Projects
+##  Projects
 
 ### Health & Psychology
 - [COVID-19 – Predicting Patient Risk Urgency](https://github.com/RoniF-pixel/Projects/tree/main/Covid-19)(`Python`)
@@ -65,7 +64,7 @@ I’m currently exploring interdisciplinary applications of statistical modeling
   Classified social media content to distinguish factual claims from opinions, with applications in sentiment analysis and behavioral research.
     - [TikTok Visualization](https://public.tableau.com/app/profile/ronak.fathi/viz/TikTokProject_17092911172030/Story1)(`Tableau`)
 
-### 👩‍💼 Consulting & Education
+###  Consulting & Education
 - [Student Projects Portfolio](https://github.com/RoniF-pixel/Student-Projects-Portfolio): A collection of mentoring and consulting work in areas like psychology and behavioral science. Includes longitudinal study analyses, survey modeling, and guided workflows developed with students.
 - [Statisticians World Tutorials](https://github.com/RoniF-pixel/Statisticians-World-Tutorials): Code, datasets, and walkthroughs from my YouTube tutorials on R and Python. Topics include statistical modeling, data wrangling, and machine learning fundamentals.
 
