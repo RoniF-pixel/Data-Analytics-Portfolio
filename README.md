@@ -11,7 +11,7 @@ I’m currently exploring interdisciplinary applications of statistical modeling
 
 ---
 
-## 🗂 Table of Contents
+##  Table of Contents
 
 - [ About](#about)
 - [ Projects](#projects)
@@ -20,7 +20,7 @@ I’m currently exploring interdisciplinary applications of statistical modeling
   - Environmental & Infrastructure
   - Behavioral & Social
   - Consulting & Education
-- [🎓 Certificates](#certificates)
+- [ Certificates](#certificates)
 - [📬 Contacts](#contacts)
 
 ---
@@ -70,7 +70,7 @@ I’m currently exploring interdisciplinary applications of statistical modeling
 
 ---
 
-## 🎓 Certificates
+##  Certificates
 
 - [Machine Learning Specialization – Stanford University](https://coursera.org/share/55be9360748683122474a7118bd764f2)
 - [Google Advanced Data Analytics Professional Certificate](https://www.credly.com/badges/53b0562d-9aab-4204-8b5d-f520890b456a/linked_in?t=scnypb)
