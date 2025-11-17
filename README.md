@@ -3,11 +3,11 @@
 
  Hi, I’m Ronak Fathi, a statistical consultant and educator with a master’s degree in mathematical statistics. I specialize in probability, stochastic modeling, simulation, and applied statistical analysis using R, Python, and SPSS.
 
-Across my work, whether analyzing random recursive trees, forecasting environmental phenomena or economic and customer behavior, or modeling health and behavioral outcomes, I focus on modeling uncertainty, dependence, and variation in complex systems using both theoretical and computational approaches. This unifying theme bridges my theoretical research with applied projects and ensures that insights are both rigorous and actionable.
+Across my work, whether analyzing random recursive trees, forecasting environmental phenomena, or modeling health and behavioral outcomes, I focus on modeling uncertainty, dependence, and variation in complex systems using both theoretical and computational approaches. This unifying theme bridges my theoretical research with applied projects and ensures that insights are both rigorous and actionable.
 
-My applied projects span health, psychology, economics, environment, and education, with experience in forecasting, risk modeling, and behavioral analytics. Examples include time series forecasting of lightning strikes and store sales, predictive modeling of patient and consumer risk, and analysis of survey and longitudinal behavioral data.
+My applied projects span health, psychology, economics, and environment, with experience in forecasting, risk modeling, and behavioral analytics.
 
-I’m currently exploring interdisciplinary applications of statistical modeling, stochastic processes, and machine learning, and I’m eager to collaborate on projects where rigorous quantitative methods inform real-world decision-making across domains such as health, finance, social science, and environment.
+I’m currently exploring interdisciplinary applications of statistical modeling and machine learning, and I’m eager to collaborate on projects where rigorous quantitative methods inform real-world decision-making across domains such as health, social science, and environment.
 
 ---
 
